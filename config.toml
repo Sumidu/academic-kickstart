@@ -9,7 +9,7 @@
 baseurl = "https://calerovaldez.com"
 
 # Title of your site
-title = "Academic"
+title = "André Calero Valdez"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -57,8 +57,8 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "André Calero Valdez"
+  role = "Junior Research Group Leader"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
