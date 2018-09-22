@@ -2,3 +2,4 @@ public/
 .idea/
 .Rproj.user
 .DS_Store
+rscripts/*.md
