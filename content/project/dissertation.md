@@ -32,7 +32,7 @@ caption = ""
 
 
 # Dissertation 
-![Book-Cover]("ta_diabetes_small.jpg")
+![Book-Cover](/img/ta_diabetes_small.jpg)
 
 
 ## Abstract of the Dissertation 
