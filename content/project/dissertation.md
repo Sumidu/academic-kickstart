@@ -2,10 +2,11 @@
 date = 2018-09-20
 title = "Dissertation - Technology Acceptance and Diabetes"
 subtitle = "User-Centered Design of Small Screen Devices for Diabetes Patients"
-# d
+
+
 [header]
-image = "publications/effects2009.png"
-caption = "Example Results"
+image = "ta_diabetes_small.jpg"
+caption = "Book-Cover"
 +++
 
 The present work deals with the user-centered design process and its impact on technology acceptance of small screen devices for diabetics. The aim of this interdisciplinary work is to conceptualize a compact diabetes management assistant that meets the needs and requirements of its potential users. Moreover, a better understanding of the relationships of technical expertise, domain specificity, diversity and user acceptance should be obtained in relation to medical technology. Another research question deals with the purposeful endowment of acceptance: Can the usercentered design process, when it is accompanied by methods of technology acceptance research, systematically generate products that show more acceptability?
