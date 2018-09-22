@@ -131,5 +131,5 @@ bibtex_2academic <- function(bibfile,
   apply(mypubs, FUN = function(x) create_md(x), MARGIN = 1)
 }
 
-
-bibtex_2academic("rscripts/refs.bib", "rscripts/")
+bibfile <- "rscripts/rwth.bib"
+bibtex_2academic(bibfile, "rscripts/rwth/")
