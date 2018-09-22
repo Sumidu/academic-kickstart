@@ -66,12 +66,12 @@ enableGitInfo = false
   { name = "RWTH Aachen University", url = "http://www.rwth-aachen.de" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  avatar = "portraitme.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "calero-valdez@comm.rwth-aachen.de"
+  address = "Room 03B08, Human-Computer Interaction Center, RWTH-Aachen University, Campus Boulevard 57, 52074 Aachen, Germany"
+  office_hours = "Email for appointment"
+  phone = "+49 241 80-49239"
+  skype = "sumidu"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
