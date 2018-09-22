@@ -35,6 +35,22 @@ bibtex_2academic <- function(bibfile,
   
   # create a function which populates the md template based on the info
   # about a publication
+
+  
+  fix_bib <- function(x) {
+    y <- x %>% 
+      str_remove_all(fixed("{")) %>%
+      str_remove_all(fixed("}")) %>% 
+      str_replace_all("\\&", "&") %>% 
+      str_replace_all("\n", " ") %>% 
+      str_squish()
+    y
+  }
+  
+  x <- "A{4} \\& \n test. This is a    test!"
+  fix_bib(x)
+  
+  
   create_md <- function(x) {
     
     # define a date and create filename by appending date and start of title
@@ -44,8 +60,12 @@ bibtex_2academic <- function(bibfile,
       x[["date"]] <- "2999-01-01"
     }
     
+    
+    
     filename <- paste(x[["date"]], x[["title"]] %>%
                         str_replace_all(fixed(" "), "_") %>%
+                        str_remove_all(fixed("{")) %>%
+                        str_remove_all(fixed("}")) %>%
                         str_remove_all(fixed(":")) %>%
                         str_sub(1, 20) %>%
                         paste0(".md"), sep = "_")
@@ -55,13 +75,13 @@ bibtex_2academic <- function(bibfile,
       write("+++", fileConn)
       
       # Title and date
-      write(paste0("title = \"", x[["title"]], "\""), fileConn, append = T)
+      write(paste0("title = \"", str_to_title(fix_bib(x[["title"]])), "\""), fileConn, append = T)
       write(paste0("date = \"", anydate(x[["date"]]), "\""), fileConn, append = T)
       
       # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
       auth_hugo <- str_replace_all(x["author"], " and ", "\", \"")
       auth_hugo <- stringi::stri_trans_general(auth_hugo, "latin-ascii")
-      write(paste0("authors = [\"", auth_hugo,"\"]"), fileConn, append = T)
+      write(paste0("authors = [\"", fix_bib(auth_hugo),"\"]"), fileConn, append = T)
       
       # Publication type. Legend:
       # 0 = Uncategorized, 1 = Conference paper, 2 = Journal article
@@ -86,8 +106,8 @@ bibtex_2academic <- function(bibfile,
                                                       ", ", x[["publisher"]])
       
       
-      write(paste0("publication = \"", publication,"\""), fileConn, append = T)
-      write(paste0("publication_short = \"", publication,"\""),fileConn, append = T)
+      write(paste0("publication = \"", fix_bib(publication),"\""), fileConn, append = T)
+      write(paste0("publication_short = \"", fix_bib(publication),"\""),fileConn, append = T)
       
       # Abstract and optional shortened version.
       if (abstract) {
@@ -116,7 +136,7 @@ bibtex_2academic <- function(bibfile,
       write("url_source = \"\"", fileConn, append = T)
       #other stuff
       write("math = true", fileConn, append = T)
-      write("highlight = true", fileConn, append = T)
+      write("highlight = false", fileConn, append = T)
       # Featured image
       write("[header]", fileConn, append = T)
       write("image = \"\"", fileConn, append = T)
@@ -132,4 +152,4 @@ bibtex_2academic <- function(bibfile,
 }
 
 bibfile <- "rscripts/rwth.bib"
-bibtex_2academic(bibfile, "rscripts/rwth/")
+bibtex_2academic(bibfile, "rscripts/rwth/", overwrite = T)
