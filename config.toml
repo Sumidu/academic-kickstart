@@ -250,7 +250,18 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://www.researchgate.net/profile/Andre_Calero_Valdez"
 
+ [[params.social]]
+    icon = "youtube"
+    icon_pack = "fab"
+    link = "https://www.youtube.com/channel/UClF6-jdeBu9Kkz32n7hc6rg"
     
+   [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0002-6214-1461" 
+    
+    
+
    
 
   # Link to a PDF of your resume/CV from the About widget.
