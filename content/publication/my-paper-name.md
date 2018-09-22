@@ -23,19 +23,7 @@ publication = "In *Usability & HCI Learning from the Extreme 2009*, LNCS 5889"
 publication_short = "In *USAB 2009*"
 
 # Abstract and optional shortened version.
-abstract = " Technology acceptance has become a key concept for the successful
-rollout of technical devices. Though the concept is intensively studied for
-nearly 20 years now, still, many open questions remain. This especially applies
-to technology acceptance of older users, which are known to be very sensitive
-to suboptimal interfaces and show considerable reservations towards the usage
-of new technology. Mobile small screen technology increasingly penetrates
-health care and medical applications. This study investigates impacts of aging,
-technology expertise and domain knowledge on user interaction using the example
-of diabetes. For this purpose user effectiveness and efficiency have been
-measured on a simulated small screen device and related to user characteristics,
-showing that age and technology expertise have a big impact on usability of the
-device. Furthermore, impacts of user characteristics and success during the trial
-on acceptance of the device were surveyed and analyzed."
+abstract = " Technology acceptance has become a key concept for the successful rollout of technical devices. Though the concept is intensively studied for nearly 20 years now, still, many open questions remain. This especially applies to technology acceptance of older users, which are known to be very sensitive to suboptimal interfaces and show considerable reservations towards the usage of new technology. Mobile small screen technology increasingly penetrates health care and medical applications. This study investigates impacts of aging, technology expertise and domain knowledge on user interaction using the example of diabetes. For this purpose user effectiveness and efficiency have been measured on a simulated small screen device and related to user characteristics, showing that age and technology expertise have a big impact on usability of the device. Furthermore, impacts of user characteristics and success during the trial on acceptance of the device were surveyed and analyzed."
 #abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
