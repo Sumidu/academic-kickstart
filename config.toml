@@ -248,7 +248,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "researchgate"
     icon_pack = "fab"
-    link = " https://www.researchgate.net/profile/Andre_Calero_Valdez"
+    link = "https://www.researchgate.net/profile/Andre_Calero_Valdez"
 
     
    
