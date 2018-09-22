@@ -68,9 +68,10 @@ bibtex_2academic <- function(bibfile,
       # 3 = Manuscript, 4 = Report, 5 = Book,  6 = Book section
       write(paste0("publication_types = [\"", x[["pubtype"]],"\"]"), 
             fileConn, append = T)
-      
+      publication <- ""
+      if (!is.na(x[["booktitle"]])) publication <- x[["booktitle"]]
       # Publication details: journal, volume, issue, page numbers and doi link
-      publication <- x[["journal"]]
+      if (!is.na(x[["journal"]])) publication <- x[["journal"]]
       if (!is.na(x[["volume"]])) publication <- paste0(publication, 
                                                        ", (", x[["volume"]], ")")
       if (!is.na(x[["number"]])) publication <- paste0(publication,
@@ -80,6 +81,10 @@ bibtex_2academic <- function(bibfile,
 #      if (!is.na(x[["doi"]])) publication <- paste0(publication,
 #                                                    ", ", paste0("https://doi.org/", 
 #                                                                 x[["doi"]]))
+      
+      if (!is.na(x[["publisher"]])) publication <- paste0(publication,
+                                                      ", ", x[["publisher"]])
+      
       
       write(paste0("publication = \"", publication,"\""), fileConn, append = T)
       write(paste0("publication_short = \"", publication,"\""),fileConn, append = T)
