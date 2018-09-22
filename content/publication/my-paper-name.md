@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Effects of Aging and Domain Knowledge on Usability in Small Screen Devices for Diabetes Patients"
 
 # Date first published.
 date = "2013-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["Calero Valdez, A.", "Ziefle, M.", "Horstmann, A.", "Herding, D.", "Schroeder, U."]
 
 # Publication type.
 # Legend:
@@ -19,12 +19,24 @@ authors = ["First author's name", "Second author's name"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "In *Usability & HCI Learning from the Extreme 2009*, LNCS 5889"
+publication_short = "In *USAB 2009*"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = " Technology acceptance has become a key concept for the successful
+rollout of technical devices. Though the concept is intensively studied for
+nearly 20 years now, still, many open questions remain. This especially applies
+to technology acceptance of older users, which are known to be very sensitive
+to suboptimal interfaces and show considerable reservations towards the usage
+of new technology. Mobile small screen technology increasingly penetrates
+health care and medical applications. This study investigates impacts of aging,
+technology expertise and domain knowledge on user interaction using the example
+of diabetes. For this purpose user effectiveness and efficiency have been
+measured on a simulated small screen device and related to user characteristics,
+showing that age and technology expertise have a big impact on usability of the
+device. Furthermore, impacts of user characteristics and success during the trial
+on acceptance of the device were surveyed and analyzed."
+#abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -36,10 +48,10 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+projects = ["dissertation"]
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "pdf/effects2009.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -62,9 +74,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
+image = "pubs/effects2009.png"
+caption = "Example Results"
 
 +++
-
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
