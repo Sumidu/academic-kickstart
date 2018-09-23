@@ -26,7 +26,7 @@ abstract = "When social media becomes a dominant channel for the distribution of
 abstract_short = "When social media becomes a dominant channel for the distribution of news, manipulation of the news agenda and news content can be achieved by anyone who is hosting a website with access to social media APIs. Falsehoods masked as legitimate news with the intent to manipulate the public are called Fake News. This type of propaganda is disseminated by sharing of individual social media users. Fake news pose a threat to democracies as they influence the public agenda and contribute to polarization of opinions. To limit the dissemination of fake news, social media websites utilize fact-checking badges to flag possibly fabricated content. It has however not been investigated whether these badges are effective and who responds to them. In a survey study with 120 participants we found little evidence for the effectiveness of such badges. However, believability of news in a social media sites were generally rated rather low."
 
 # Featured image thumbnail (optional)
-image_preview = "img/publications/belivability2018.png"
+image_preview = "publications/belivability2018.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -66,7 +66,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "img/publications/belivability2018.png"
+image = "publications/belivability2018.png"
 caption = ""
 
 +++
