@@ -2,7 +2,7 @@
 title = "Effects of Aging and Domain Knowledge on Usability in Small Screen Devices for Diabetes Patients"
 
 # Date first published.
-date = "2013-07-01"
+date = "2009-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Calero Valdez, A.", "Ziefle, M.", "Horstmann, A.", "Herding, D.", "Schroeder, U."]

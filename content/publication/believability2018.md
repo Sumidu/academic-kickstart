@@ -1,5 +1,5 @@
 +++
-title = "Beliavbility of Fake News - Understanding Users Perceptions of Fake News and the Effectiveness of Fact-Checking Badges"
+title = "Believability of Fake News - Understanding Users Perceptions of Fake News and the Effectiveness of Fact-Checking Badges"
 date = 2018-09-23T21:58:20+02:00
 draft = false
 
@@ -26,7 +26,7 @@ abstract = "When social media becomes a dominant channel for the distribution of
 abstract_short = "When social media becomes a dominant channel for the distribution of news, manipulation of the news agenda and news content can be achieved by anyone who is hosting a website with access to social media APIs. Falsehoods masked as legitimate news with the intent to manipulate the public are called Fake News. This type of propaganda is disseminated by sharing of individual social media users. Fake news pose a threat to democracies as they influence the public agenda and contribute to polarization of opinions. To limit the dissemination of fake news, social media websites utilize fact-checking badges to flag possibly fabricated content. It has however not been investigated whether these badges are effective and who responds to them. In a survey study with 120 participants we found little evidence for the effectiveness of such badges. However, believability of news in a social media sites were generally rated rather low."
 
 # Featured image thumbnail (optional)
-image_preview = "publications/belivability2018.png"
+image_preview = "publications/believability2018.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -44,11 +44,11 @@ tags = ["fake news", "fact checking"]
 
 # Links (optional).
 url_pdf = "https://link.springer.com/chapter/10.1007/978-3-319-96077-7_50"
-url_preprint = "pdf/belivability2018.pdf"
+url_preprint = "pdf/believability2018.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "slides/belivability2018.pdf"
+url_slides = "slides/believability2018.pdf"
 url_video = ""
 url_poster = ""
 url_source = ""
