@@ -15,7 +15,7 @@ authors = ["André Calero Valdez", "Martina Ziefle"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "IEA 2018: Proceedings of the 20th Congress of the International Ergonomics Association (IEA 2018) _pp. 469-477_"
@@ -29,7 +29,7 @@ abstract_short = "When social media becomes a dominant channel for the distribut
 image_preview = "img/belivability2018.png"
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
