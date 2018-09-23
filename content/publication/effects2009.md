@@ -5,7 +5,7 @@ title = "Effects of Aging and Domain Knowledge on Usability in Small Screen Devi
 date = "2009-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Calero Valdez, A.", "Ziefle, M.", "Horstmann, A.", "Herding, D.", "Schroeder, U."]
+authors = ["André Calero Valdez", "Martina Ziefle", "Andreas Horstmann", "Daniel Herding", "Ulrik Schroeder"]
 
 # Publication type.
 # Legend:

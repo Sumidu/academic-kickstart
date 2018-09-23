@@ -8,7 +8,7 @@ draft = false
 tags = ["ehealth", "diabetes"]
 
 # Project summary to display on homepage.
-summary = "User-Centered Design of Small Screen Devices for Diabetes Patients"
+summary = "User-Centered Design of Small Screen Devices for Diabetes Patients. My dissertation projected funded by the RWTH Aachen University Graduate Funds."
 
 # Optional image to display on homepage.
 image_preview = "ta_diabetes_small.jpg"

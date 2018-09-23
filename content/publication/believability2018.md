@@ -66,7 +66,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "publications/belivability2018.png"
-caption = ""
+image = "publications/believability2018.png"
+caption = "No differences between fake and real news..."
 
 +++

@@ -5,10 +5,10 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["recommender systems", "filter bubble", "social bots", "social networks", "human factors"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Junior Research Group funded by the NRW State Government. Project runtime from 2018 to 2022."
 
 # Optional image to display on homepage.
 image_preview = ""
@@ -29,3 +29,6 @@ image = ""
 caption = ""
 
 +++
+
+
+Project website: https://www.digitale-mündigkeit.de
