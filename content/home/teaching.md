@@ -16,3 +16,5 @@ weight = 60
 +++
 
 Teaching information will be added soon.
+
+http://www.blogdown.org/andrecalerovaldez/ccs
