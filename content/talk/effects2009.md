@@ -35,7 +35,7 @@ tags = ["diabetes", "small-screen device", "aging"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "slides/effects2009.pdf"
 url_video = ""
 url_code = ""
 

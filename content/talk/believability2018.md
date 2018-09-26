@@ -31,11 +31,11 @@ projects = ["digitale-muendigkeit"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["fake news", "social media"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = "slides/belivability2018.pdf"
+url_slides = "slides/believability2018.pdf"
 url_video = ""
 url_code = ""
 
