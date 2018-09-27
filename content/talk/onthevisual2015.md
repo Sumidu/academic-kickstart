@@ -38,7 +38,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "slides/onthevisual2015.pdf"
+url_slides = "http://www.cle-consulting.com/slides/onthevisual2015.pdf"
 url_video = ""
 url_code = ""
 

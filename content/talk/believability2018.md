@@ -35,7 +35,7 @@ tags = ["fake news", "social media"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = "slides/believability2018.pdf"
+url_slides = "http://www.cle-consulting.com/slides/believability2018.pdf"
 url_video = ""
 url_code = ""
 

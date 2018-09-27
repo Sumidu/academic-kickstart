@@ -38,7 +38,7 @@ tags = ["scientific cooperation engineering"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = "slides/enhancing2014.pdf"
+url_slides = "http://www.cle-consulting.com/slides/enhancing2014.pdf"
 url_video = ""
 url_code = ""
 

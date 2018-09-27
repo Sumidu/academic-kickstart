@@ -38,7 +38,7 @@ tags = ["social media"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = "slides/information2013.pdf"
+url_slides = "http://www.cle-consulting.com/slides/information2013.pdf"
 url_video = ""
 url_code = ""
 
