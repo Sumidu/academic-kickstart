@@ -1,6 +1,6 @@
 +++
 title = "Requirements for Reproducibility of Research in Situational and Spatio-Temporal Visualization"
-date = 2018-09-23T21:58:20+02:00
+date = 2018-10-03T21:58:20+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["André Calero Valdez", "M;artinaDavid Jones"]`.
