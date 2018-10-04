@@ -1,5 +1,5 @@
 +++
-title = "Believability of Fake News - Understanding Users Perceptions of Fake News and the Effectiveness of Fact-Checking Badges"
+title = "Believability of News - Understanding Users Perceptions of Fake News and the Effectiveness of Fact-Checking Badges"
 date = 2018-09-23T21:58:20+02:00
 draft = false
 
