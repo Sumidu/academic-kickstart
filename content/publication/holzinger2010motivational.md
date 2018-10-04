@@ -1,7 +1,7 @@
 +++
 title = "Motivational features of a mobile web application promoting a healthy lifestyle."
 date = "2010-01-01"
-draft=T
+draft=true
 publication_types = ["1"]
 authors = ["Andreas Holzinger", "Stefan Dorner", "M. Fodinger", "Martina Ziefle", "André Calero Valdez"]
 publication = "In: 24th BCS Conference on Human Computer Interaction"
@@ -23,6 +23,6 @@ url_source = ""
 math = true
 highlight = true
 [header]
-image_ = "publications/holzinger2010motivational.png"
+image = "publications/holzinger2010motivational.png"
 caption = "Result highlight"
 +++
