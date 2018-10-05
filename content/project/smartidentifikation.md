@@ -11,7 +11,7 @@ tags = []
 summary = "Funded by the BMBF. Funding period: 2018-2020"
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "smartidentifikation.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -25,8 +25,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "smartidentifikation.jpg"
+caption = "© iStock.com/Hailshadow"
 
 +++
 
