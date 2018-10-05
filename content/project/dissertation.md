@@ -1,6 +1,6 @@
 +++
 title = "Dissertation - Technology Acceptance and Diabetes"
-date = 2018-09-22T19:17:35+02:00
+date = 2009-09-22T19:17:35+02:00
 draft = false
 
 # Tags: can be used for filtering projects.

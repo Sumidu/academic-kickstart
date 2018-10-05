@@ -1,6 +1,6 @@
 +++
 title = "Cluster of Excellence - Production Technology in High-Wage Countries"
-date = 2018-09-23T22:12:17+02:00
+date = 2012-09-23T22:12:17+02:00
 draft = false
 
 # Tags: can be used for filtering projects.

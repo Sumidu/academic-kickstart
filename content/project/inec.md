@@ -1,6 +1,6 @@
 +++
 title = "iNec - Innovation by Expert Communities in Times of Demographic Change"
-date = 2018-09-23T22:12:08+02:00
+date = 2013-09-23T22:12:08+02:00
 draft = false
 
 # Tags: can be used for filtering projects.
