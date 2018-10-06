@@ -8,8 +8,8 @@ abstract = "As a consequence of ongoing globalization processes and demographic 
 abstract_short = ""
 image_preview = "publications/locker2014yet.png"
 selected = false
-projects = []
-tags = []
+projects = ["inec"]
+tags = ["social media", "motivation"]
 url_pdf = "https://books.google.de/books?hl=en&id=EodYBAAAQBAJ&oi=fnd&pg=PA152&redir_esc=y#v=onepage&q&f=true"
 url_preprint = "pdf/locker2014yet.pdf"
 url_code = ""
