@@ -33,7 +33,7 @@ The course is held every **winter semester**.
 
 ## Links
 
-
+Slides can be found [here](http://acalerovaldez.updog.co/slidedeck/rstats/slides).
 
 ## Coursebook
 The coursebook for empricial methods of social sciences can be found here: https://bookdown.org/andrecalerovaldez/ccs/.
