@@ -25,25 +25,25 @@ linktitle = "Example Page"
 
 
 ## Course information
-In this course, the topic are the use and reflection of scientific methods. The focus lies on quantitative methods of social science research.  In this course you will learn both to design empirical research questions from theory and data, and learn to analyze quantitative data using the language (R)[https://www.r-project.org/]. The aim is to understand when to apply which method. How to apply them correctly, and how to interpret data from these methods. 
+In this course, the topic are the use and reflection of scientific methods. The focus lies on quantitative methods of social science research.  In this course you will learn both to design empirical research questions from theory and data, and learn to analyze quantitative data using the language [R](https://www.r-project.org/). The aim is to understand when to apply which method. How to apply them correctly, and how to interpret data from these methods. 
 
-The course is supported by (DataCamp)[https://www.datacamp.com] a provider of online tutorials for the R language.
+The course is supported by [DataCamp](https://www.datacamp.com) a provider of online tutorials for the R language.
 Along with this course, the seminar "Empirisch-experimentelle Forschungsmethoden in der Anwendung" should be taken. As here, the theoretical input from the lectures will be applied and trained.
 
 ### Course schedule
 The course is held every **winter semester**.
 
 
-
-
 ### Links
 
 Slides can be found [here](http://acalerovaldez.updog.co/slidedeck/rstats/slides). 
 
+{{% alert warning %}}
 Warning! The slides are being developed during the course.
+{{% /alert %}}
 
 ## Coursebook
-The coursebook for empricial methods of social sciences can be found here: https://bookdown.org/andrecalerovaldez/ccs/.
+The coursebook for empricial methods of social sciences can be found [here](https://bookdown.org/andrecalerovaldez/ccs/).
 
 The relevant chapters are:
 - Chapter 2
