@@ -42,6 +42,15 @@ Slides can be found [here](http://acalerovaldez.updog.co/slidedeck/rstats/slides
 Warning! The slides are being developed during the course.
 {{% /alert %}}
 
+## Books related to this course
+
+- Börtz/Döring - Forschungsmethoden 
+
+- Online books: 
+  - R for Data Science, Link: http://r4ds.had.co.nz (free)
+  - R for Social Science, Link: http://socviz.co/ (free)
+
+
 ## Coursebook
 The coursebook for empricial methods of social sciences can be found [here](https://bookdown.org/andrecalerovaldez/ccs/).
 
@@ -50,6 +59,8 @@ The relevant chapters are:
 
 
 
+
+# Old Material
 
 ## Video-Lectures 
 {{% alert warning %}}
