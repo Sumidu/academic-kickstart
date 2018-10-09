@@ -25,7 +25,7 @@ linktitle = "Example Page"
 
 
 ## Course information
-In this course, the topic are the use and reflection of scientific methods. The focus lies on quantitative methods of social science research.  In this course you will learn both to design empirical research questions from theory and data, and learn to analyze quantitative data using the language [R](https://www.r-project.org/). The aim is to understand when to apply which method. How to apply them correctly, and how to interpret data from these methods. 
+In this course, the topic is the use and reflection of scientific methods. The focus lies on quantitative methods of social science research.  In this course you will learn both to design empirical research questions from theory and data, and learn to analyze quantitative data using the language [R](https://www.r-project.org/). The aim is to understand when to apply which method. How to apply them correctly, and how to interpret data from these methods. 
 
 The course is supported by [DataCamp](https://www.datacamp.com) a provider of online tutorials for the R language.
 Along with this course, the seminar "Empirisch-experimentelle Forschungsmethoden in der Anwendung" should be taken. As here, the theoretical input from the lectures will be applied and trained.
@@ -44,12 +44,12 @@ Warning! The slides are being developed during the course.
 
 ## Books related to this course
 
-- Börtz/Döring - Forschungsmethoden 
+- Döring/Bortz - Forschungsmethoden und Evaluation
 
 - Online books: 
   - R for Data Science, Link: http://r4ds.had.co.nz (free)
   - R for Social Science, Link: http://socviz.co/ (free)
-
+  - Modern Dive: https://moderndive.com/ (free)
 
 ## Coursebook
 The coursebook for empricial methods of social sciences can be found [here](https://bookdown.org/andrecalerovaldez/ccs/).
@@ -57,6 +57,10 @@ The coursebook for empricial methods of social sciences can be found [here](http
 The relevant chapters are:
 - Chapter 2
 
+
+# New Video Material
+### Was sind Forschungsmethoden
+{{< youtube 58-wejZt3S0 >}}
 
 
 
