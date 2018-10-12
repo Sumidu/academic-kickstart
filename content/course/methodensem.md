@@ -9,10 +9,10 @@ toc = false  # Show table of contents? true/false
 type = "course"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Example Page"
-[menu.tutorial]
-  parent = "Example Topic"
-  weight = 1
+#linktitle = "Example Page"
+#[menu.tutorial]
+#  parent = "Example Topic"
+#  weight = 1
 
 
 # Featured image.
