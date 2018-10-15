@@ -1,5 +1,5 @@
 +++
-title = "SEM Empirisch experimentelle Methoden in der Anwendung"
+title = "Empirisch experimentelle Methoden in der Anwendung - Seminar"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00

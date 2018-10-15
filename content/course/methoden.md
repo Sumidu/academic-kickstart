@@ -1,5 +1,5 @@
 +++
-title = "VL Methoden der empirischen Sozialforschung für Fortgeschrittene"
+title = "Methoden der empirischen Sozialforschung für Fortgeschrittene - Lecture"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
