@@ -38,7 +38,7 @@ The course is held every **winter semester**.
 
 Slides can be found [here](http://acalerovaldez.updog.co/slidedeck/rstats/slides). 
 
-{{% alert warning %}}
+{{% alert note %}}
 Warning! The slides are being developed during the course.
 {{% /alert %}}
 
@@ -55,6 +55,7 @@ Warning! The slides are being developed during the course.
 The coursebook for empricial methods of social sciences can be found [here](https://bookdown.org/andrecalerovaldez/ccs/).
 
 The relevant chapters are:
+- Chapter 1
 - Chapter 2
 
 
@@ -64,10 +65,10 @@ The relevant chapters are:
 
 
 
-# Old Material
+# Old Video Material
 
-## Video-Lectures 
-{{% alert warning %}}
+## Video-Lectures Flipped Classroom
+{{% alert info %}}
 The following videos are based on the old course that relies on SPSS.
 {{% /alert %}}
 All videos can be watched in a playlist [here](https://www.youtube.com/playlist?list=PLHOMZ3TUd5FrNQSzDTRrXzBQlx2Mli9p1) 
