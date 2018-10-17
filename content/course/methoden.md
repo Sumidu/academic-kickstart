@@ -63,7 +63,8 @@ The relevant chapters are:
 ### Was sind Forschungsmethoden
 {{< youtube 58-wejZt3S0 >}}
 
-
+### Qualitative und quantitative Methoden
+{{< youtube xan7RLYufic >}}
 
 # Old Video Material
 
@@ -71,7 +72,7 @@ The relevant chapters are:
 {{% alert info %}}
 The following videos are based on the old course that relies on SPSS.
 {{% /alert %}}
-All videos can be watched in a playlist [here](https://www.youtube.com/playlist?list=PLHOMZ3TUd5FrNQSzDTRrXzBQlx2Mli9p1) 
+All videos can be watched in a playlist [here](https://www.youtube.com/playlist?list=PLHOMZ3TUd5FrNQSzDTRrXzBQlx2Mli9p1).
 
 ### Model
 {{< youtube Tna9K8L82dY >}}
