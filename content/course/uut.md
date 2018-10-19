@@ -30,3 +30,6 @@ The course is held every winter semester.
 ## Topics WS 17 / 18
 Mass-Communication, Filter Bubbles, Opinion Formation.
 
+### Video-Material
+
+{{< youtube WznRK_IHSOM >}}
