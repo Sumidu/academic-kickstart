@@ -63,4 +63,6 @@ The relevant chapters are:
 ### Introduction
 {{< youtube ZP0dPveqcyg >}}
 
-
+### Literature Search and factor space
+{{< youtube BLHB1dZFvyk >}}
+{{< youtube pLtgFEITUho >}} 
