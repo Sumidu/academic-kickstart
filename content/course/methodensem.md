@@ -66,3 +66,10 @@ The relevant chapters are:
 ### Literature Search and factor space
 {{< youtube BLHB1dZFvyk >}}
 {{< youtube pLtgFEITUho >}} 
+
+### Project Oraganization and Git
+
+{{< youtube GYrlg9z4A3M >}}
+
+### Questionnaire design using surveymonkey
+{{< youtube xWgcnqpPYUo >}}

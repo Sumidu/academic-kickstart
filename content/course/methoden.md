@@ -66,6 +66,14 @@ The relevant chapters are:
 ### Qualitative und quantitative Methoden
 {{< youtube xan7RLYufic >}}
 
+
+### Wissenschaftstheorie und Empirie
+
+Wird nachgereicht...
+
+### Forschungsinstrument, Messtheorie, Skalen
+{{< youtube sfceiEx-O6U >}}
+
 # Old Video Material
 
 ## Video-Lectures Flipped Classroom
