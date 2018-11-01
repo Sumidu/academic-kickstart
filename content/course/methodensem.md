@@ -34,12 +34,14 @@ Along with this course, the lecture "Sozialwissenschaftliche Forschungsmethoden 
 The course is held every **winter semester**.
 
 
-### Links
+### Slides
 
 Slides can be found at the L2P or below.
 
 - Slides 1 - [Link](/slides/methodenseminar/01-intro.pdf)
 - Slides 2 - [Link](/slides/methodenseminar/02-researchquestion.pdf)
+- Slides 3 - [Link](/slides/methodenseminar/03-projectorganization.pdf)
+- Slides 4 - [Link](/slides/methodenseminar/04-surveydesign.pdf)
 
 ## Books related to this course
 
@@ -70,6 +72,6 @@ The relevant chapters are:
 ### Project Oraganization and Git
 
 {{< youtube GYrlg9z4A3M >}}
-
+{{< youtube XUYExPN1ii4 >}}
 ### Questionnaire design using surveymonkey
 {{< youtube xWgcnqpPYUo >}}
