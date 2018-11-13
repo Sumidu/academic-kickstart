@@ -75,3 +75,6 @@ The relevant chapters are:
 {{< youtube XUYExPN1ii4 >}}
 ### Questionnaire design using surveymonkey
 {{< youtube xWgcnqpPYUo >}}
+
+### Data Cleaning using dplyr
+{{< youtube 9hSCZdfgRIg>}}

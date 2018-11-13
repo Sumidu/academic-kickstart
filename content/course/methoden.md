@@ -34,7 +34,7 @@ Along with this course, the seminar "Empirisch-experimentelle Forschungsmethoden
 The course is held every **winter semester**.
 
 
-### Links
+### Slides
 
 Slides can be found [here](http://acalerovaldez.updog.co/slidedeck/rstats/slides). 
 
@@ -69,10 +69,33 @@ The relevant chapters are:
 
 ### Wissenschaftstheorie und Empirie
 
-Wird nachgereicht...
+{{< youtube m-xK-TjsOn8>}}
 
 ### Forschungsinstrument, Messtheorie, Skalen
 {{< youtube sfceiEx-O6U >}}
+
+### Deskriptive Statistik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Old Video Material
 
