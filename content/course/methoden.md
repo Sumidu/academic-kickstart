@@ -76,7 +76,7 @@ The relevant chapters are:
 
 ### Deskriptive Statistik
 
-
+{{< youtube 9Dbh2SWAzUU>}}
 
 
 
