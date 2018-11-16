@@ -77,4 +77,7 @@ The relevant chapters are:
 {{< youtube xWgcnqpPYUo >}}
 
 ### Data Cleaning using dplyr
-{{< youtube 9hSCZdfgRIg>}}
+{{< youtube 9hSCZdfgRIg> }}
+
+### Descriptive Statistics and ggplot2
+{{< youtube qK1YHZSwSFU> }}
