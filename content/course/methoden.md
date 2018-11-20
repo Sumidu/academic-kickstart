@@ -79,7 +79,12 @@ The relevant chapters are:
 {{< youtube 9Dbh2SWAzUU>}}
 
 
+### Verteilungen, Zufall und Stichproben
+Leider ohne Ton.
+{{< youtube avvqirM6CyY>}}
 
+Nachreichung mit Ton.
+{{< youtube 5iaeueypyR8>}}
 
 
 
