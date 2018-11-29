@@ -69,7 +69,7 @@ The relevant chapters are:
 {{< youtube BLHB1dZFvyk >}}
 {{< youtube pLtgFEITUho >}} 
 
-### Project Oraganization and Git
+### Project Organization and Git
 
 {{< youtube GYrlg9z4A3M >}}
 {{< youtube XUYExPN1ii4 >}}
@@ -81,3 +81,7 @@ The relevant chapters are:
 
 ### Descriptive Statistics and ggplot2
 {{< youtube qK1YHZSwSFU >}}
+
+
+### Tutorial on GIT, Boxplots and Esquisse
+{{< youtube bOEEosU4jVY >}}

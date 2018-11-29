@@ -86,7 +86,8 @@ Leider ohne Ton.
 Nachreichung mit Ton. 
 {{< youtube 5iaeueypyR8>}}
 
-
+### Inferenz, Hypothesen, t-Test, Fehler 1. und 2. Art
+{{< youtube Xgw46lLWixc >}}
 
 
 
