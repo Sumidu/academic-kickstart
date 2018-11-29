@@ -10,6 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Data Science",
     "Human-Computer Interaction",
     "Information Visualization",
     "Recommender Systems",
@@ -41,7 +42,7 @@ He studied computer science at RWTH Aachen University, specializing in software 
 
 Since 2013, André has been working as a post-doctoral fellow at RWTH Aachen University and deals with the interface between algorithms and humans in different application areas. He works in the fields of empirical social research, technology acceptance, eHeatlh, industry 4.0, recommendation systems, information visualization and social media.
 
-Since 2014 André is visiting professor at the Medical University Graz at the HCI-KDD Group with Prof. Dr. Andreas Holzinger, where his research focuses on the integration of computerized methods in health care.
+Since 2014 André is visiting professor at the Medical University Graz at the HCI-KDD Group with Prof. Dr. Andreas Holzinger, where his research focuses on the integration of computerized methods and machine learning in health care.
 
 Since 2018 André is the research group leader of the junior research group "Digitale Mündigkeit". In this research group, the interaction of recommendation algorithms, social bots, and fake news in social media are investigated.
 
