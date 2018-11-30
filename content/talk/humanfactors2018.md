@@ -1,3 +1,4 @@
++++
 title = "Human Factors in the Age of Algorithms. Understanding the Human-in-the-loop Using Agent-based Modeling"
 date = 2018-09-26T22:59:01+02:00  # Schedule page publish date.
 draft = false
