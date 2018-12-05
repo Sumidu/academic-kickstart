@@ -90,8 +90,8 @@ Nachreichung mit Ton.
 {{< youtube Xgw46lLWixc >}}
 
 
-
-
+### Alpha-Fehler Kummulierung, Bonferroni, ANOVA
+{{< youtube RbYvoxy8PPY >}}
 
 
 

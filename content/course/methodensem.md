@@ -85,3 +85,6 @@ The relevant chapters are:
 
 ### Tutorial on GIT, Boxplots and Esquisse
 {{< youtube bOEEosU4jVY >}}
+
+### T-Test and P-Values
+{{< youtube r7Bwtv5rtGU >}}
