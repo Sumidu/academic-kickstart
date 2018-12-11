@@ -88,3 +88,10 @@ The relevant chapters are:
 
 ### T-Test and P-Values
 {{< youtube r7Bwtv5rtGU >}}
+
+
+### Übung - ANOVA, MANOVA
+{{< youtube 2ysV5ntKq9I >}}
+
+### Tutorial 4 - Mittelwertsunterschiede mit ggplot2
+{{< youtube nxQmEKr89ZQ >}}

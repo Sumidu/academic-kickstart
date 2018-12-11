@@ -94,7 +94,9 @@ Nachreichung mit Ton.
 {{< youtube RbYvoxy8PPY >}}
 
 
-
+### Kovarianz und Korrelation
+Audio fehlt. Zweite Aufzeichnung wird nachgereicht :(
+{{< youtube IfdCBcmJbsA >}}
 
 
 
@@ -141,4 +143,5 @@ All videos can be watched in a playlist [here](https://www.youtube.com/playlist?
 
 ### ANOVA
 {{< youtube K1rNrZN5o9I >}}
+
 
