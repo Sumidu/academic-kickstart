@@ -98,7 +98,8 @@ Nachreichung mit Ton.
 Audio fehlt. Zweite Aufzeichnung wird nachgereicht :(
 {{< youtube IfdCBcmJbsA >}}
 
-
+Mit Audio als Kurzzusammenfassung
+{{< youtube lU8RIN-2mlw>}}
 
 
 
