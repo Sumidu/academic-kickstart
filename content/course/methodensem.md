@@ -95,3 +95,6 @@ The relevant chapters are:
 
 ### Tutorial 4 - Mittelwertsunterschiede mit ggplot2
 {{< youtube nxQmEKr89ZQ >}}
+
+### Tutorial 5 - Korrelation und Lineare Regression
+{{< youtube VPtoUeQDc0A >}}
