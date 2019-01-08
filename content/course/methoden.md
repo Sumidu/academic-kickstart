@@ -64,7 +64,7 @@ The relevant chapters are:
 Link zum Github Respository https://github.com/Sumidu/shinystats
 
 ### Installationsanleitung
-{{< u7pzu96uz04 >}}
+{{< youtube u7pzu96uz04 >}}
 
 # New Video Material
 ### Was sind Forschungsmethoden
