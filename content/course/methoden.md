@@ -59,6 +59,13 @@ The relevant chapters are:
 - Chapter 2
 
 
+## Shinystats online Lern-Tool
+
+Link zum Github Respository https://github.com/Sumidu/shinystats
+
+### Installationsanleitung
+{{< u7pzu96uz04 >}}
+
 # New Video Material
 ### Was sind Forschungsmethoden
 {{< youtube 58-wejZt3S0 >}}
@@ -102,7 +109,11 @@ Mit Audio als Kurzzusammenfassung
 {{< youtube lU8RIN-2mlw>}}
 
 
+### Lineare Regression
+{{< youtube 2FcMV0FHVoc >}}
 
+### Wiederholung und Likert Skalen 
+{{< youtube 5YU4NQJwJ9M >}}
 
 
 
