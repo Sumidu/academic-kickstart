@@ -115,6 +115,20 @@ Mit Audio als Kurzzusammenfassung
 ### Wiederholung und Likert Skalen 
 {{< youtube 5YU4NQJwJ9M >}}
 
+### Video-Vorlesung: Conjoint-Software
+{{< youtube jiW5ND0PzYM >}}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Old Video Material

@@ -98,3 +98,6 @@ The relevant chapters are:
 
 ### Tutorial 5 - Korrelation und Lineare Regression
 {{< youtube VPtoUeQDc0A >}}
+
+### Likert-Plots
+{{< youtube 1-l6awmmCxo >}}
