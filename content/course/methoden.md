@@ -118,7 +118,8 @@ Mit Audio als Kurzzusammenfassung
 ### Video-Vorlesung: Conjoint-Software
 {{< youtube jiW5ND0PzYM >}}
 
-
+### Faktorenanalyse
+{{< youtube qGIx6k7GAU4 >}}
 
 
 
