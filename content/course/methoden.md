@@ -2,7 +2,7 @@
 title = "Methoden der empirischen Sozialforschung für Fortgeschrittene - Lecture"
 
 date = 2018-09-09T00:00:00
-# lastmod = 2018-09-09T00:00:00
+lastmod = 2019-10-10T00:00:00
 
 draft = false  # Is this a draft? true/false
 toc = false  # Show table of contents? true/false
@@ -66,7 +66,11 @@ Link zum Github Respository https://github.com/Sumidu/shinystats
 ### Installationsanleitung
 {{< youtube u7pzu96uz04 >}}
 
-# New Video Material
+# Wintersemester 19/20 Material
+ Link to the Main GitHub Repository: https://github.com/sumidu/EmpirischeForschungsmethoden/ 
+
+
+# WS 18/19 Video Material
 ### Was sind Forschungsmethoden
 {{< youtube 58-wejZt3S0 >}}
 
