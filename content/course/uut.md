@@ -27,6 +27,9 @@ Students have to deliver a final presentation and three pitches. As a term paper
 
 The course is held every winter semester.
 
+## Topics WS 19 / 20
+Misinformation in the Internet
+
 ## Topics WS 17 / 18
 Mass-Communication, Filter Bubbles, Opinion Formation.
 

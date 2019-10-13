@@ -36,7 +36,7 @@ The course is held every **winter semester**.
 
 ### Slides
 
-Slides can be found at the L2P or below.
+Slides can be found at the Github-Repository or below.
 
 - Slides 1 - [Link](/slides/methodenseminar/01-intro.pdf)
 - Slides 2 - [Link](/slides/methodenseminar/02-researchquestion.pdf)
