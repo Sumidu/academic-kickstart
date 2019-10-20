@@ -36,11 +36,14 @@ The course is held every **winter semester**.
 
 ### Slides
 
-Slides can be found [here](http://acalerovaldez.updog.co/slidedeck/rstats/slides). 
+Slides can be found [here](http://cle-consulting.com/slidedeck/methoden). 
 
 {{% alert note %}}
 Warning! The slides are being developed during the course.
 {{% /alert %}}
+
+<br/><br/><br/><br/>
+
 
 ## Books related to this course
 
